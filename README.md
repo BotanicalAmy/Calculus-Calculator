@@ -3,7 +3,7 @@ I learn by doing and got tired of the tedious calculations involved in these con
 
 Math is useful when it is applied. I hope you enjoy this application.
 
-**detailed documentation is included throughout the jupyter notebook**
+*detailed documentation is included throughout the jupyter notebook*
 
 ## First order differential equations ##
 The included notebook contains functions for solving first order differential equations, specifically creating approximate solutions using Euler's method, in addition to a function for Newton's Law of Cooling.
