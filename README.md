@@ -1,5 +1,5 @@
 # Calculus-Calculator #
-I learn by doing and got tired of the tedious calculations involved in these content sections of my Calculus II course.  Additionally, I use Python to solve complex problems in my work as an analyst and data scientist. Python coding for work is not condusive to public use in a portfolio, but the enclosed set of functions can help demonstrate my abilities to potential clients or employers.
+I learn by doing and got tired of the tedious calculations involved in these content sections of my Calculus II course.  Additionally, I use Python to solve complex problems as an analyst and data scientist. Python coding for work is not conducive to public use in a portfolio, but the enclosed set of functions can help demonstrate my abilities to potential clients or employers.
 
 Math is useful when it is applied. Euler's method can be used to determine voltage drop along a circuit, chemical reactivity, investment changes, and bacterial growth. Series and sequences can represent mathematical patterns that can not be represented algebraically. Binary code necessitates the use of sequences to make computation possible.  Periodic systems rely on series, including the Taylor Series and Fourier Series.
 
