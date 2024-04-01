@@ -1,7 +1,9 @@
 # Calculus-Calculator #
-I learn by doing and got tired of the tedious calculations involved in these content sections of my Calculus II course.  Additionally, I use Python to solve complex problems in my work as an analyst and data scientist. Python coding for work is not condusive to public use in a portfolio, but the enclosed set of functions can help demonstrate my abilities to potential clients or emloyers.
+I learn by doing and got tired of the tedious calculations involved in these content sections of my Calculus II course.  Additionally, I use Python to solve complex problems in my work as an analyst and data scientist. Python coding for work is not condusive to public use in a portfolio, but the enclosed set of functions can help demonstrate my abilities to potential clients or employers.
 
 Math is useful when it is applied. I hope you enjoy this application.
+
+**detailed documentation is included throughout the jupyter notebook**
 
 ## First order differential equations ##
 The included notebook contains functions for solving first order differential equations, specifically creating approximate solutions using Euler's method, in addition to a function for Newton's Law of Cooling.
